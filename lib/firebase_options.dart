@@ -53,12 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyDBUtJSVCwtczsXGYN_1Y1HFF2v4T-BcjE",
-    authDomain: "photo-gallery-app-49bf3.firebaseapp.com",
-    projectId: "photo-gallery-app-49bf3",
-    storageBucket: "photo-gallery-app-49bf3.firebasestorage.app",
-    messagingSenderId: "292373722687",
-    appId: "1:292373722687:web:d2fc81e7c6f9bef5e06a8a",
-    measurementId: "G-P10HTP9H26",
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: "",
   );
 } 
